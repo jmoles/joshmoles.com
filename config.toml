@@ -21,14 +21,6 @@ email = "contact@joshmoles.com"
 header_nav = [
     { url = "/", name_en = "/home/" },
 ]
-
-# Social links for anemone theme
-social_links = [
-    { name = "Bluesky", url = "https://bsky.app/profile/joshmoles.com" },
-    { name = "GitHub", url = "https://github.com/jmoles" },
-    { name = "LinkedIn", url = "https://www.linkedin.com/in/josh-moles/" },
-]
-
 # Theme customization
 theme_color = "dark"
 show_reading_time = true
