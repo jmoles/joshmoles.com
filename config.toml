@@ -15,7 +15,7 @@ highlight_theme = "css"
 [extra]
 # Anemone theme specific configuration
 author = "Josh Moles"
-email = "contact@joshmoles.com"
+email = "josh@moles.cc"
 
 # Header navigation (required by anemone theme)
 header_nav = [
