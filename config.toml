@@ -8,9 +8,9 @@ generate_feeds = true
 
 theme = "anemone"
 
-[markdown]
-highlight_code = true
-highlight_theme = "css"
+[markdown.highlighting]
+style = "class"
+theme = "one-dark-pro"
 
 [extra]
 # Anemone theme specific configuration
