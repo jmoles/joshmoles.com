@@ -5,8 +5,11 @@ template = "index.html"
 
 # Josh Moles
 
-Computer engineer and technology enthusiast. Program manager at IonQ, working
-on the integration of classical and quantum computers (hybrid computing).
+Engineer and program manager whose work has spanned multiple computing
+paradigms, from unconventional simulated chemistries to quantum. Currently
+at IonQ, working on integrating conventional and quantum systems.
+Previously at the U.S. Department of State, Google, Intel, and Northrop
+Grumman. IEEE Senior Member, FAA Private Pilot, and amateur radio operator (NV2X).
 
 You can find me on:
 - [Bluesky](https://bsky.app/profile/joshmoles.com)
